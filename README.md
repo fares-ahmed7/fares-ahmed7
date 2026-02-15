@@ -1,62 +1,92 @@
-# 🚀 Hi there, I'm Fares Ahmed! 
-### 🤖 AI/ML Engineer | Specialized in DeepLearning & Generative AI 
-**GenAI Intern @ITI (Information Technology Institute)**
+<div align="center">
+
+# 🚀 Fares Ahmed
+### 🤖 AI/ML Engineer | Specialized in Deep Learning & Generative AI
+**GenAI Intern @ ITI (Information Technology Institute)**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fares-ahmed7&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fares-ahmed7&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophy" />
+</p>
+
+</div>
 
 ## 💫 Executive Summary
 I am a specialized **AI Engineer** with a robust foundation in **Deep Learning** and **Generative AI**, backed by intensive training from industry leaders like **NVIDIA** and **Huawei**. My expertise lies in building end-to-end intelligent systems, focusing on **LLM Applications**, **Retrieval-Augmented Generation (RAG)**, and **Autonomous AI Agents**.
 
-- 🛠️ **Current Focus:** Optimizing RAG pipelines and Fine-tuning LLMs for grounded responses.
+- 🛠️ **Current Focus:** Optimizing RAG pipelines, Vector Search, and Grounded Responses.
 - 🎓 **Credentials:** Certified in Huawei HCIA-AI V4.0 & NVIDIA DLI Generative AI Program.
 - 🧬 **Technical Core:** Advanced proficiency in Supervised/Unsupervised Learning & Neural Networks.
-- 🎯 **Mission:** Engineering scalable AI workflows that solve complex real-world challenges.
+- 🎯 **Mission:** Engineering scalable AI workflows and Agentic solutions for real-world impact.
 
 ---
 
 ## 🛠️ Specialized Technical Expertise
 
-### 🏗️ Generative AI & Large Language Models (LLMs)
-*Building the next generation of intelligent applications.*
+### 🏗️ Generative AI & LLM Engineering
+*Architecting RAG Pipelines and Intelligent Agents.*
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Systems-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-yellow?style=for-the-badge&logo=airtable&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vector_Search-4A90E2?style=for-the-badge&logo=vector&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Agents-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-yellow?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Embeddings-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grounded_Responses-00A67E?style=for-the-badge" />
 </p>
 
 ### 🧠 Deep Learning & Machine Learning
-*From theoretical foundations to capstone deployments.*
+*From statistical modeling to advanced neural architectures.*
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neural_Networks-D00000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Random_Forest-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge" />
 </p>
 
-### 📊 Data Science & MLOps Infrastructure
-*Data preprocessing, feature engineering, and deployment.*
+### 📊 Data Science & Applied AI
+*Ensuring data integrity and model performance.*
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Preprocessing-grey?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🏅 Professional Certifications & Training
-* **NVIDIA DLI:** Generative AI & Building RAG Agents with LLMs.
+* **NVIDIA DLI:** Building RAG Agents with LLMs & Generative AI Beginner Level.
 * **Huawei ICT Academy:** AI & Machine Learning Trainee (HCIA-AI V4.0).
-* **DeepLearning.AI:** Machine Learning Specialization (Andrew Ng).
-* **ITIDA:** InnovEgypt Program (Entrepreneurship & Design Thinking).
+* **DeepLearning.AI:** Machine Learning Specialization (Supervised, Unsupervised, & Reinforcement Learning).
+* **ITIDA:** InnovEgypt Program (Entrepreneurship, Design Thinking & Innovation Management).
 
+---
+
+## 📈 Engineering Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fares-ahmed7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ahmed7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it."</i>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fares-ahmed7&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="mailto:faresdahawy7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>"In the world of AI, the only limit is your compute and your imagination."</i>
 </p>

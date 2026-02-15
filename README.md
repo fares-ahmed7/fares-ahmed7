@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm Fares Ahmed! 
-### 🤖 AI Engineer | Deep Learning & Generative AI Specialist
-**GenAI Intern @ ITI (Information Technology Institute)**
+### 🤖 AI/ML Engineer | Specialized in DeepLearning & Generative AI 
+**GenAI Intern @ITI (Information Technology Institute)**
 
 ---
 

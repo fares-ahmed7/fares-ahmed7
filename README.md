@@ -1,6 +1,5 @@
 <div align="center">
-
-# 🚀 Fares Ahmed
+## Hi I'M Fares Ahmed
 ### 🤖 AI/ML Engineer | Specialized in Deep Learning & Generative AI
 **GenAI Intern @ ITI (Information Technology Institute)**
 
@@ -9,10 +8,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fares-ahmed7&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophy" />
-</p>
 
 </div>
 

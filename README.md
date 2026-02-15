@@ -60,6 +60,7 @@ My goal is to continue growing in the field of artificial intelligence, contribu
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 ---
 
 ## 🏅 Professional Certifications & Training

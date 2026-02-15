@@ -1,10 +1,6 @@
-# 🚀 Fares Ahmed | AI & Generative AI Engineer
-### 🤖 Specializing in LLMs, RAG Architectures & Intelligent Agents
+# 🚀 Hi there, I'm Fares Ahmed! 
+### 🤖 AI Engineer | Deep Learning & Generative AI Specialist
 **GenAI Intern @ ITI (Information Technology Institute)**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fares-ahmed7&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophy" />
-</p>
 
 ---
 
@@ -60,24 +56,6 @@ I am a specialized **AI Engineer** with a robust foundation in **Deep Learning**
 * **DeepLearning.AI:** Machine Learning Specialization (Andrew Ng).
 * **ITIDA:** InnovEgypt Program (Entrepreneurship & Design Thinking).
 
----
-
-## 📈 Engineering Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fares-ahmed7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ahmed7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fares-ahmed7&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Let's Connect
-<p align="left">
-  <a href="mailto:faresdahawy7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>

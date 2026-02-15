@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi I'm FARES AHMED
-###  AI/ML Engineer | Specialized in Deep Learning & Generative AI
+### AI/ML Engineer | Specialized in Deep Learning & Generative AI
 **GenAI Intern @ ITI (Information Technology Institute)**
 
 <p align="center">
@@ -34,24 +34,28 @@ My goal is to continue growing in the field of artificial intelligence, contribu
   <img src="https://img.shields.io/badge/Grounded_Responses-00A67E?style=for-the-badge" />
 </p>
 
-### 🧠 Deep Learning & Machine Learning
-*From statistical modeling to advanced neural architectures.*
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Random_Forest-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge" />
-</p>
-
-### 📊 Data Science & Applied AI
-*Ensuring data integrity and model performance.*
+### 🧠 Data Science, ML & Deep Learning
+*From data preprocessing to advanced neural architectures.*
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Preprocessing-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge" />
+</p>
+
+### ⚙️ Tools & Infrastructure
+*Ensuring scalable deployments and efficient workflows.*
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---

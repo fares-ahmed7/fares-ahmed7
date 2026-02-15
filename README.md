@@ -39,7 +39,6 @@ My goal is to continue growing in the field of artificial intelligence, contribu
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Random_Forest-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge" />
@@ -58,7 +57,7 @@ My goal is to continue growing in the field of artificial intelligence, contribu
 ---
 
 ## 🏅 Professional Certifications & Training
-* **NVIDIA DLI:** Building RAG Agents with LLMs & Generative AI Beginner Level.
+* **NVIDIA DLI:** Building RAG Agents with LLMs & Building LLM Applications With Prompt Engineering.
 * **Huawei ICT Academy:** AI & Machine Learning Trainee (HCIA-AI V4.0).
 * **DeepLearning.AI:** Machine Learning Specialization (Supervised, Unsupervised, & Reinforcement Learning).
 * **ITIDA:** InnovEgypt Program (Entrepreneurship, Design Thinking & Innovation Management).

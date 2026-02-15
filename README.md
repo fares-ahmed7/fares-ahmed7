@@ -1,7 +1,7 @@
 <div align="center">
 
-## Hi I'm Fares Ahmed
-### 🤖 AI/ML Engineer | Specialized in Deep Learning & Generative AI
+# Hi I'm FARES AHMED
+###  AI/ML Engineer | Specialized in Deep Learning & Generative AI
 **GenAI Intern @ ITI (Information Technology Institute)**
 
 <p align="center">
@@ -10,19 +10,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fares-ahmed7&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophy" />
-</p>
-
 </div>
 
 ## 💫 Executive Summary
-I am a specialized **AI Engineer** with a robust foundation in **Deep Learning** and **Generative AI**, backed by intensive training from industry leaders like **NVIDIA** and **Huawei**. My expertise lies in building end-to-end intelligent systems, focusing on **LLM Applications**, **Retrieval-Augmented Generation (RAG)**, and **Autonomous AI Agents**.
+I am a dedicated **AI and Machine Learning Engineer** focused on architecting intelligent systems that drive meaningful change. With a solid foundation in **Deep Learning** and **Generative AI** built through specialized training at **ITI**, **NVIDIA**, and **Huawei**, I bridge the gap between complex algorithms and effective, real-world AI solutions.
+
+Beyond my technical core in **LLM Applications** and **RAG Pipelines**, I am committed to continuous growth through structured research and analytical thinking. My goal is to leverage the power of intelligent models to help organizations innovate, focusing on building scalable, forward-thinking projects that push the boundaries of what AI can achieve.
 
 - 🛠️ **Current Focus:** Optimizing RAG pipelines, Vector Search, and Grounded Responses.
 - 🎓 **Credentials:** Certified in Huawei HCIA-AI V4.0 & NVIDIA DLI Generative AI Program.
 - 🧬 **Technical Core:** Advanced proficiency in Supervised/Unsupervised Learning & Neural Networks.
-- 🎯 **Mission:** Engineering scalable AI workflows and Agentic solutions for real-world impact.
+- 🚀 **Mission:** Strengthening analytical thinking and programming to deploy production-ready AI models.
 
 ---
 
@@ -68,6 +66,12 @@ I am a specialized **AI Engineer** with a robust foundation in **Deep Learning**
 * **DeepLearning.AI:** Machine Learning Specialization (Supervised, Unsupervised, & Reinforcement Learning).
 * **ITIDA:** InnovEgypt Program (Entrepreneurship, Design Thinking & Innovation Management).
 
+---
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fares-ahmed7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ahmed7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <i>"In the world of AI, the only limit is your compute and your imagination."</i>

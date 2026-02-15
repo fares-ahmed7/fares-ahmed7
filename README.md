@@ -1,5 +1,5 @@
 <div align="center">
-## Hi I'M Fares Ahmed
+# Hi I'M Fares Ahmed
 ### 🤖 AI/ML Engineer | Specialized in Deep Learning & Generative AI
 **GenAI Intern @ ITI (Information Technology Institute)**
 
@@ -8,6 +8,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fares-ahmed7&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophy" />
+</p> 
 
 </div>
 
@@ -65,17 +68,6 @@ I am a specialized **AI Engineer** with a robust foundation in **Deep Learning**
 
 ---
 
-## 📈 Engineering Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fares-ahmed7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ahmed7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fares-ahmed7&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 Let's Connect
 <p align="center">

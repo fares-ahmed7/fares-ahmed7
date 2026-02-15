@@ -23,43 +23,43 @@ My goal is to continue growing in the field of artificial intelligence, contribu
 
 ## 🛠️ Specialized Technical Expertise
 
-### 🏗️ Generative AI & LLM Engineering
-*Architecting RAG Pipelines and Intelligent Agents.*
+### 🏗️ Generative AI & Agentic Systems
+*RAG Architectures, LLM Orchestration, and Autonomous Agents.*
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Agents-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-FF4B4B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vector_Search-4A90E2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-yellow?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Embeddings-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grounded_Responses-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-00599C?style=for-the-badge" />
 </p>
 
 ### 🧠 Data Science, ML & Deep Learning
-*From data preprocessing to advanced neural architectures.*
+*Statistical modeling, Neural Networks, and Predictive Analytics.*
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical_Modeling-00758F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Preprocessing-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge" />
 </p>
 
 ### 🛠️ Programming & Development Tools
-*The essential stack for building and deploying AI models.*
+*Core engineering foundations and deployment infrastructure.*
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 ---
 
 ## 🏅 Professional Certifications & Training

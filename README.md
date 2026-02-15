@@ -17,11 +17,6 @@ I am a dedicated **AI and Machine Learning Engineer** focused on architecting in
 
 Beyond my technical core in **LLM Applications** and **RAG Pipelines**, I am committed to continuous growth through structured research and analytical thinking. My goal is to leverage the power of intelligent models to help organizations innovate, focusing on building scalable, forward-thinking projects that push the boundaries of what AI can achieve.
 
-- 🛠️ **Current Focus:** Optimizing RAG pipelines, Vector Search, and Grounded Responses.
-- 🎓 **Credentials:** Certified in Huawei HCIA-AI V4.0 & NVIDIA DLI Generative AI Program.
-- 🧬 **Technical Core:** Advanced proficiency in Supervised/Unsupervised Learning & Neural Networks.
-- 🚀 **Mission:** Strengthening analytical thinking and programming to deploy production-ready AI models.
-
 ---
 
 ## 🛠️ Specialized Technical Expertise
@@ -65,14 +60,3 @@ Beyond my technical core in **LLM Applications** and **RAG Pipelines**, I am com
 * **Huawei ICT Academy:** AI & Machine Learning Trainee (HCIA-AI V4.0).
 * **DeepLearning.AI:** Machine Learning Specialization (Supervised, Unsupervised, & Reinforcement Learning).
 * **ITIDA:** InnovEgypt Program (Entrepreneurship, Design Thinking & Innovation Management).
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fares-ahmed7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ahmed7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <i>"In the world of AI, the only limit is your compute and your imagination."</i>
-</p>

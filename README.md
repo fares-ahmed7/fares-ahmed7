@@ -1,5 +1,6 @@
 <div align="center">
-# Hi I'M Fares Ahmed
+
+## Hi I'm Fares Ahmed
 ### 🤖 AI/ML Engineer | Specialized in Deep Learning & Generative AI
 **GenAI Intern @ ITI (Information Technology Institute)**
 
@@ -8,9 +9,10 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fares-ahmed7&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophy" />
-</p> 
+</p>
 
 </div>
 
@@ -66,13 +68,6 @@ I am a specialized **AI Engineer** with a robust foundation in **Deep Learning**
 * **DeepLearning.AI:** Machine Learning Specialization (Supervised, Unsupervised, & Reinforcement Learning).
 * **ITIDA:** InnovEgypt Program (Entrepreneurship, Design Thinking & Innovation Management).
 
----
-
-
-## 📫 Let's Connect
-<p align="center">
-  <a href="mailto:faresdahawy7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 <p align="center">
   <i>"In the world of AI, the only limit is your compute and your imagination."</i>

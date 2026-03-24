@@ -23,8 +23,8 @@ My goal is to continue growing in the field of artificial intelligence, contribu
 
 ## 🛠️ Specialized Technical Expertise
 
-### 🏗️ Generative AI & Agentic Systems
-*RAG Architectures, LLM Orchestration, and Autonomous Agents.*
+### 🏗️ Generative AI 
+*RAG Architectures, LLM Orchestration.*
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge&logo=openai&logoColor=white" />

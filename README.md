@@ -13,11 +13,11 @@
 </div>
 
 ## 💫 About Me
-I am an AI and Machine Learning Engineer focused on continuously developing my skills in artificial intelligence, machine learning, Deep Learning, and Generative AI. I have completed specialized courses in these areas, which have helped me build a solid foundation in core concepts such as machine learning algorithms, deep learning fundamentals, and generative models.
+Aspiring AI/ML Engineer focused on Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI. Completed specialized training in these domains, building a strong foundation in machine learning algorithms, deep learning concepts, and generative models. Experienced in applying theoretical knowledge through hands-on projects in AI systems development.
 
-I am committed to continuous learning through structured courses, self-study, and trusted technical resources, with a strong interest in understanding how intelligent models work and how they can be leveraged to build effective AI-driven solutions. I also focus on strengthening my programming skills and analytical thinking to prepare for applying these concepts in real-world projects.
+Continuously improving skills through structured learning, self-study, and practical implementation, with strong interest in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI application development. Skilled in Python and motivated to develop real-world, AI-driven solutions.
 
-My goal is to continue growing in the field of artificial intelligence, contribute to forward-thinking projects, and help organizations harness the power of AI to drive meaningful change.
+Goal-oriented toward contributing to innovative AI projects and advancing expertise in building scalable and production-ready AI systems.
 
 ---
 

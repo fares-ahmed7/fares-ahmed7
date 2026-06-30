@@ -66,5 +66,5 @@ Goal-oriented toward contributing to innovative AI projects and advancing expert
 ## 🏅 Professional Certifications & Training
 * **NVIDIA DLI:** Building RAG Agents with LLMs & Building LLM Applications With Prompt Engineering.
 * **Huawei ICT Academy:** AI & Machine Learning Trainee (HCIA-AI V4.0).
-* **DeepLearning.AI:** Machine Learning Specialization (Supervised, Unsupervised, & Reinforcement Learning).
+* **DeepLearning.AI:** Machine Learning Specialization & Deep Learning Specialization.
 * **ITIDA:** InnovEgypt Program (Entrepreneurship, Design Thinking & Innovation Management).

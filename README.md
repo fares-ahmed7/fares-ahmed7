@@ -79,14 +79,6 @@ Goal-oriented toward contributing to innovative AI projects and advancing expert
 
 ---
 
-## 🚀 Featured Projects
-
-* **[Smart Contract Assistant](https://github.com/fares-ahmed7)** — RAG-based document assistant (LangChain, ChromaDB, FastAPI, Gradio) with citation-grounded answers and a custom LLM evaluation pipeline for relevance, faithfulness, and hallucination detection.
-* **[Mini-RAG](https://github.com/fares-ahmed7/MINI-RAG)** — Production-oriented RAG system with FastAPI, PostgreSQL + pgvector, modular LLM/Vector-DB providers, and Celery-based async processing, fully containerized with Docker.
-* **[Hotel Booking Cancellation Prediction System](https://github.com/fares-ahmed7/Hotel-Booking-Cancellation-Prediction-System)** — End-to-end ML pipeline with a Flask REST API and Docker deployment.
-
----
-
 ## 🏅 Professional Certifications & Training
 * **NVIDIA DLI:** Building RAG Agents with LLMs & Building LLM Applications With Prompt Engineering.
 * **Huawei ICT Academy:** AI & Machine Learning Trainee (HCIA-AI V4.0).

@@ -1,70 +1,105 @@
-<div align="center">
-
-# Hi I'm FARES AHMED
-### AI/ML Engineer | Specialized in Deep Learning & Generative AI
-**GenAI Intern @ ITI (Information Technology Institute)**
+<h1 align="center">Hi 👋, I'm Fares Ahmed</h1>
+<h3 align="center">Machine Learning & Software Engineer | Building end-to-end ML/AI systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fares-ahmed7&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=fares-ahmed7&label=Profile%20views&color=0e75b6&style=flat" alt="fares-ahmed7" />
 </p>
 
 ---
 
-</div>
+### 🚀 About Me
 
-## 💫 About Me
-Aspiring AI/ML Engineer focused on Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI. Completed specialized training in these domains, building a strong foundation in machine learning algorithms, deep learning concepts, and generative models. Experienced in applying theoretical knowledge through hands-on projects in AI systems development.
-
-Continuously improving skills through structured learning, self-study, and practical implementation, with strong interest in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI application development. Skilled in Python and motivated to develop real-world, AI-driven solutions.
-
-Goal-oriented toward contributing to innovative AI projects and advancing expertise in building scalable and production-ready AI systems.
+- 🔭 I'm currently working on **RAG-based AI systems and ML deployment pipelines**
+- 🌱 I'm currently learning **[ضيف هنا اللي بتتعلمه دلوقتي]**
+- 👯 I'm looking to collaborate on **Machine Learning / Deep Learning / MLOps projects**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, FastAPI**
+- 📫 How to reach me: **[بريدك الإلكتروني]**
+- ⚡ Fun fact: **[معلومة طريفة عنك]**
 
 ---
 
-## 🛠️ Specialized Technical Expertise
+### 🔗 Connect with me
 
-### 🏗️ Generative AI 
-*RAG Architectures, LLM Orchestration.*
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Systems-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_Search-4A90E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-yellow?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLM_Evaluation-00599C?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
-### 🧠 Data Science, ML & Deep Learning
-*Statistical modeling, Neural Networks, and Predictive Analytics.*
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistical_Modeling-00758F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Preprocessing-grey?style=for-the-badge" />
-</p>
+---
 
-### 🛠️ Programming & Development Tools
-*Core engineering foundations and deployment infrastructure.*
+### 🛠 Tech Stack
+
+**Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Machine Learning / Deep Learning**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+**Backend & Deployment**
+
+<p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 🏅 Professional Certifications & Training
-* **NVIDIA DLI:** Building RAG Agents with LLMs & Building LLM Applications With Prompt Engineering.
-* **Huawei ICT Academy:** AI & Machine Learning Trainee (HCIA-AI V4.0).
-* **DeepLearning.AI:** Machine Learning Specialization & Deep Learning Specialization.
-* **ITIDA:** InnovEgypt Program (Entrepreneurship, Design Thinking & Innovation Management).
+### 📌 Featured Projects
+
+- 🏨 **[Hotel Booking Cancellation Prediction System](https://github.com/fares-ahmed7/Hotel-Booking-Cancellation-Prediction-System)** — End-to-end ML pipeline with Flask API & Docker deployment
+- 🧠 **[Mini-RAG](https://github.com/fares-ahmed7/MINI-RAG)** — A minimal Retrieval-Augmented Generation system built with FastAPI
+- 📊 **[Machine Learning Specialization – Practical Exercises](https://github.com/fares-ahmed7/Machine-Learning-Specialization-Practical-Exercises)** — Labs from Andrew Ng's ML Specialization
+- 🤖 **[Deep Learning Specialization – Practical Exercises](https://github.com/fares-ahmed7/Deep-Learning-Specialization-Practical-Exercises)** — Labs from Andrew Ng's Deep Learning Specialization
+
+---
+
+### 🏆 Certifications
+
+- Machine Learning Specialization – DeepLearning.AI / Stanford Online
+- Deep Learning Specialization – DeepLearning.AI
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fares-ahmed7&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ahmed7&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fares-ahmed7&hide_border=true" alt="streak stats" />
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile!</p>

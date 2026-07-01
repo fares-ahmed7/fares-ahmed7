@@ -1,119 +1,94 @@
-<h1 align="center">Hi 👋, I'm Fares Ahmed</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Generative AI · RAG Systems · Machine Learning</h3>
+<div align="center">
+
+# Hi I'm FARES AHMED
+### AI/ML Engineer | Specialized in Deep Learning & Generative AI
+**GenAI Intern @ ITI (Information Technology Institute)**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fares-ahmed7&label=Profile%20views&color=0e75b6&style=flat" alt="fares-ahmed7" />
+  <img src="https://komarev.com/ghpvc/?username=fares-ahmed7&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
 </p>
 
----
-
-### 🚀 About Me
-
-Computer Science student at **Helwan University**, aspiring to become an **AI/ML Engineer** with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
-
-- 🔭 Currently building **RAG-based LLM systems** and end-to-end AI applications
-- 🌱 Actively deepening my knowledge of **LLMs, LangChain, and production-grade AI deployment**
-- 👯 Open to collaborating on **Machine Learning / Deep Learning / Generative AI** projects
-- 💬 Ask me about **RAG, LangChain, Prompt Engineering, Python, FastAPI**
-- 📫 Reach me at **faresdahawy7@gmail.com**
-- 🎓 B.Sc. Computer Science & Mathematics — Expected graduation **2028**
-
----
-
-### 🔗 Connect with me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/fares-ahmed7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:faresdahawy7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/fares-ahmed7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
-> ⚠️ لينك الـ LinkedIn هنا مبني على اسم اليوزر بتاعك، لو مختلف عن اليوزرنيم الفعلي لازم تظبطه.
+---
+
+</div>
+
+## 💫 About Me
+Aspiring AI/ML Engineer focused on Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI. Completed specialized training in these domains, building a strong foundation in machine learning algorithms, deep learning concepts, and generative models. Experienced in applying theoretical knowledge through hands-on projects in AI systems development.
+
+Continuously improving skills through structured learning, self-study, and practical implementation, with strong interest in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI application development. Skilled in Python and motivated to develop real-world, AI-driven solutions.
+
+Goal-oriented toward contributing to innovative AI projects and advancing expertise in building scalable and production-ready AI systems.
+
+- 🔭 Currently building **production-ready RAG systems** with FastAPI, PostgreSQL/pgvector, and LangChain
+- 🌱 Deepening my expertise in **LLM orchestration and AI agent evaluation**
+- 👯 Open to collaborating on **Machine Learning / Generative AI** projects
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Specialized Technical Expertise
 
-**Programming & Deployment**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-**Generative AI & LLMs**
-
+### 🏗️ Generative AI 
+*RAG Architectures, LLM Orchestration.*
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-yellow?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-00599C?style=for-the-badge" />
 </p>
 
-**Machine Learning / Deep Learning**
-
+### 🧠 Data Science, ML & Deep Learning
+*Statistical modeling, Neural Networks, and Predictive Analytics.*
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical_Modeling-00758F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Preprocessing-grey?style=for-the-badge" />
 </p>
 
-**Infrastructure**
-
+### 🛠️ Programming & Development Tools
+*Core engineering foundations and deployment infrastructure.*
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Featured Projects
 
-- 🤖 **[Smart Contract Assistant](https://github.com/fares-ahmed7)** — RAG-based LLM document assistant (LangChain, ChromaDB, FastAPI, Gradio) with citation-grounded answers and a custom LLM evaluation pipeline for relevance, faithfulness, and hallucination detection.
-- 🧠 **[Mini-RAG](https://github.com/fares-ahmed7/MINI-RAG)** — Production-oriented RAG system built with FastAPI, PostgreSQL + pgvector, modular LLM/Vector-DB providers, Celery for async processing, and full Docker orchestration.
-- 🏨 **[Hotel Booking Cancellation Prediction System](https://github.com/fares-ahmed7/Hotel-Booking-Cancellation-Prediction-System)** — End-to-end ML pipeline for cancellation prediction with a Flask REST API and Docker deployment.
-- 📊 **[Machine Learning Specialization – Practical Exercises](https://github.com/fares-ahmed7/Machine-Learning-Specialization-Practical-Exercises)** — Labs from Andrew Ng's Machine Learning Specialization.
-- 🧬 **[Deep Learning Specialization – Practical Exercises](https://github.com/fares-ahmed7/Deep-Learning-Specialization-Practical-Exercises)** — Labs from Andrew Ng's Deep Learning Specialization.
-
-> 🔗 حط لينك الـ Live Demo بتاع Smart Contract Assistant وريبو المشروع لو موجودين على GitHub بدل اللينك المؤقت فوق.
+* **[Smart Contract Assistant](https://github.com/fares-ahmed7)** — RAG-based document assistant (LangChain, ChromaDB, FastAPI, Gradio) with citation-grounded answers and a custom LLM evaluation pipeline for relevance, faithfulness, and hallucination detection.
+* **[Mini-RAG](https://github.com/fares-ahmed7/MINI-RAG)** — Production-oriented RAG system with FastAPI, PostgreSQL + pgvector, modular LLM/Vector-DB providers, and Celery-based async processing, fully containerized with Docker.
+* **[Hotel Booking Cancellation Prediction System](https://github.com/fares-ahmed7/Hotel-Booking-Cancellation-Prediction-System)** — End-to-end ML pipeline with a Flask REST API and Docker deployment.
 
 ---
 
-### 🎓 Training & Certifications
-
-- **NVIDIA DLI – Generative AI (Advanced Level)** — Information Technology Institute (ITI), 2026
-- **NVIDIA DLI – Generative AI (Beginner Level)** — Information Technology Institute (ITI), 2025
-- **Huawei HCIA-AI V4.0** — Huawei ICT Academy Egypt, 2025
-- **InnovEgypt Entrepreneurship Program** — ITIDA, 2026
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fares-ahmed7&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ahmed7&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fares-ahmed7&hide_border=true" alt="streak stats" />
-</p>
-
----
-
-<p align="center">⭐ Thanks for visiting my profile!</p>
+## 🏅 Professional Certifications & Training
+* **NVIDIA DLI:** Building RAG Agents with LLMs & Building LLM Applications With Prompt Engineering.
+* **Huawei ICT Academy:** AI & Machine Learning Trainee (HCIA-AI V4.0).
+* **DeepLearning.AI:** Machine Learning Specialization & Deep Learning Specialization.
+* **ITIDA:** InnovEgypt Program (Entrepreneurship, Design Thinking & Innovation Management).
